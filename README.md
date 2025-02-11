@@ -13,7 +13,7 @@ Hey there, awesome people! 👋 I'm **Kashish Rajput**, a curious mind diving de
 📈 Master the art of **EDA, Visualization, and Predictive Modeling**  
 
 ### 💡 Let’s Connect & Collaborate!
-🔗 **GitHub:** ()  
+🔗 **GitHub:** (kashish-rajput476)  
 🌟 **LinkedIn:** (www.linkedin.com/in/rajputkashish476)  
 
 If you love data as much as I do, feel free to **fork, star, or drop a comment!** Let’s turn numbers into stories together! 🚀😊
